@@ -2,10 +2,10 @@
 main:
 
   -title: "Blog"
-    url: https://blog.naver.com/primapersona
+    url: "https://blog.naver.com/primapersona"
   
   -title: "Insta"
-    url: https://instagram.com/somniator.1
+    url: "https://instagram.com/somniator.1"
   
   - title: "Category"
     url: /categories/
