@@ -113,15 +113,15 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:smparkece21@snu.ac.kr"
-    - label: "Naver Blog"
-      icon: "fas fa-fw fa-link"
-      url: "https://blog.naver.com/primapersona"
+    #- label: "Naver Blog"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://blog.naver.com/primapersona"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SungminPark527"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/somniator.1"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/somniator.1"
 
 # Site Footer
 footer:
