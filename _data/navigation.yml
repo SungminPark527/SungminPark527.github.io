@@ -1,11 +1,11 @@
 # main links
 main:
 
-  #-title: "Blog"
-  #  url: https://blog.naver.com/primapersona
+  - title: "Blog"
+    url: https://blog.naver.com/primapersona
   
-  #-title: "Insta"
-  #  url: https://instagram.com/somniator.1
+  - title: "Insta"
+    url: https://instagram.com/somniator.1
   
   - title: "Category"
     url: /categories/
