@@ -25,7 +25,7 @@ url                      : "https://somnia1.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/profile2.jpg"
+logo                     : "/assets/images/profile1.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "박성민"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A dreamer, system constructor"
+  bio              : "Majoring in Electrical & Computer Engineering at SNU / Graduated KMLA in 2021"
   location         : "Seoul, South Korea"
   email            : # smparkece21@snu.ac.kr
   links:
