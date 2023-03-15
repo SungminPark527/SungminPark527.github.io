@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "블로그"
+  - title: "🔗Blog"
     url: https://blog.naver.com/primapersona
-  - title: "인스타"
+  - title: "🔗Instagram"
     url: https://instagram.com/somniator.1
-  - title: "카테고리"
+  - title: "Category"
     url: /categories/
-  - title: "태그"
+  - title: "Tag"
     url: /tags/
 
 
